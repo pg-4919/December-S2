@@ -1,4 +1,5 @@
 {
+  "type": "smithing",
   "base": {
     "item": "minecraft:golden_apple"
   },
