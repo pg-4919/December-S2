@@ -1,12 +1,13 @@
 # December-S2
 December S2 is a datapack adding several new features to the main game. These include general behavior changes and new crafting recipes. It was meant to run alongside several Vanilla Tweaks packs, as well as Terralith, Amplified Nether, and Nullscape, and some of the features are meant to fix some farms that these mods break.
 ## Changes
- - Shulkers naturally spawn in the Chorus Heights and Chorus Grove biomes.
+ - Shulkers naturally spawn in certain End biomes, on top of Purpur blocks.
  - Skeletons that acquire the Wither effect will convert to Wither Skeletons.
  - Burning a Nautilus Shell in Soul Fire will summon a thunderstorm.
  - The Lead crafting recipe now uses an Iron Nugget instead of a Slimeball.
- - Combining an Iron Helmet with a Scute in a Smithing Table gives a Turtle Helmet.
- - Combining a Golden Apple with a Totem of Undying gives an Enchanted Golden Apple.
+ - Combining an Iron Helmet with a Scute in a Smithing Table gives a Turtle Shell.
+ - Combining a Golden Apple with a Totem of Undying in a Smithing Table gives an Enchanted Golden Apple.
+ - Combining a Clock with a Splash Potion in a Smithing Table gives a Lingering Potion.
  - Wool can now be decomposed into 2 String.
  - Nether Wart Blocks can now be decomposed into 3 Nether Wart.
  - Phantom Membranes can be crafted by combining a Feather with Bonemeal in a Crafting Table.
