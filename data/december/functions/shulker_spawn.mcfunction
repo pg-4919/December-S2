@@ -3,6 +3,7 @@
 execute in the_end at @a[gamemode=!spectator] as @e[type=minecraft:enderman] run execute as @s at @s unless block ~ ~-1 ~ #december:city_blocks unless entity @e[type=shulker,distance=0..2] run tag @s add NoShulker
 execute as @e[type=minecraft:enderman,tag=!NoShulker] at @s run summon minecraft:shulker ~ ~ ~ {Color:16}
 execute as @e[type=minecraft:enderman,tag=!NoShulker] at @s run teleport @s ~ -999 ~
+execute as @e[type=minecraft:enderman,tag=!NoShulker] at @s run tag @s add NoShulker
 
 advancement revoke @a only december:respawn_end_mid
 advancement revoke @a only december:respawn_end_high
