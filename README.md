@@ -15,8 +15,8 @@ December S2 is a datapack adding several new features to the main game. These in
 1. Navigate to the main page of the repository.
 2. Click the green "Code" button.
 3. Click "Download as ZIP."
-4. Extract the ZIP archive. You should get a folder called "December-S2-main."
-6. If you are on singleplayer, locate your game directory. Click on "saves," and choose the world you want to install it in. Then, choose the "datapacks" folder. Move the "December-S2-main" folder into the "datapacks" folder.
-7. If you are on multiplayer, locate the "world" folder, and then the "datapacks" folder. Move the "December-S2-main" folder into the "datapacks" folder.
+4. Extract the ZIP archive. You should get a folder called `December-S2-main`.
+6. If you are on singleplayer, locate your game directory. Click on `saves`, and choose the world you want to install it in. Then, choose the `datapacks` folder. Move the `December-S2-main` folder into the `datapacks` folder.
+7. If you are on multiplayer, locate the `world` folder, and then the `datapacks` folder. Move the `December-S2-main` folder into the `datapacks` folder.
 8. If you are using an online hosting service, check their guide on how to install datapacks.
 9. Finally, run `/reload` in your game or through the server console.
