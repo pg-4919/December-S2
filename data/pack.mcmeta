@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "A datapack adding custom utilities, such as shulker respawning and wither skeleton conversion. Compatible with Terralith, Amplified Nether, and Nullscape."
+  }
+}
