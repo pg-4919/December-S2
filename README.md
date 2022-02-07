@@ -4,7 +4,7 @@ December S2 is a datapack adding several new features to the main game. These in
  - Shulkers naturally spawn in the Chorus Heights and Chorus Grove biomes.
  - Skeletons that die of the Wither effect will convert to Wither Skeletons.
  - Burning a Nautilus Shell in Soul Fire will summon a thunderstorm.
- - The Lead craftng recipe now uses an Iron Nugget in lieu of a Slimeball.
+ - The Lead crafting recipe now uses an Iron Nugget instead of a Slimeball.
  - Combining an Iron Helmet with a Scute in a Smithing Table gives a Turtle Helmet.
  - Combining a Golden Apple with a Totem of Undying gives an Enchanted Golden Apple.
  - Wool can now be decomposed into 2 String.
