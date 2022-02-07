@@ -1,0 +1,11 @@
+{
+  "base": {
+    "item": "minecraft:splash_potion"
+  },
+  "addition": {
+    "item": "minecraft:clock"
+  },
+  "result": {
+    "item": "minecraft:lingering_potion"
+  }
+}
