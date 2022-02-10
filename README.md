@@ -2,7 +2,6 @@
 December S2 is a datapack adding several new features to the main game. These include general behavior changes and new crafting recipes. It was meant to run alongside several Vanilla Tweaks packs, as well as Terralith, Amplified Nether, and Nullscape, and some of the features are meant to fix some farms that these mods break.
 ## Changes
  - Shulkers naturally spawn in certain End biomes, on top of Purpur blocks.
- - Skeletons that acquire the Wither effect will convert to Wither Skeletons.
  - Burning a Nautilus Shell in Soul Fire will summon a thunderstorm.
  - The Lead crafting recipe now uses an Iron Nugget instead of a Slimeball.
  - Combining an Iron Helmet with a Scute in a Smithing Table gives a Turtle Shell.
